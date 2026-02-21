@@ -1,7 +1,13 @@
 package com.location.config;
 
+import com.location.model.Contract;
+import com.location.model.HistoryLog;
 import com.location.model.User;
+import com.location.model.Vehicule;
 //import com.location.model.Vehicle;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
