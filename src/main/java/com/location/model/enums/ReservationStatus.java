@@ -1,0 +1,8 @@
+package com.location.model.enums;
+
+public enum ReservationStatus {
+    PENDING,
+    CONFIRMED,
+    CANCELLED,
+    COMPLETED
+}
