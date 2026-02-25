@@ -1,7 +1,5 @@
 package com.location.model;
 
-
-
 import com.location.model.enums.ContractStatus;
 import java.time.LocalDateTime;
 import java.util.List;

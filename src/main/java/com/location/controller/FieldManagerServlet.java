@@ -1,5 +1,3 @@
-package com.location.controller;
-
 import com.location.model.*;
 import com.location.model.enums.VehicleStatus;
 import com.location.repository.MockDatabase;
