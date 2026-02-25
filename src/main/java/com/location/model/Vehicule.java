@@ -8,6 +8,7 @@ public class Vehicule {
     private String model;
     private int lastOdometer;
     private VehicleStatus status;
+    public Vehicule() {}
 
     public Vehicule(String vin, String model, int lastOdometer, VehicleStatus status) {
         this.vin = vin;
