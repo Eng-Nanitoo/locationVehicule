@@ -1,7 +1,10 @@
 package com.location.model;
 import java.time.LocalDate;
 
+
+
 public class User {
+
     private String email;
     private String password;
     private String role; // ADMIN, MANAGER, CLIENT
