@@ -14,7 +14,7 @@ public class DataStore {
 
     private DataStore() {
         // Requirement: Default Administrator
-        users.put("admin", new User("admin", "admin", "Administrateur"));
+        users.put("admin", new User("admin@admin.com", "admin", "Administrateur"));
     }
 
     public static synchronized DataStore getInstance() {
